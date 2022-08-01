@@ -1,2 +1,7 @@
 # CIS-project-group-homework-
-personal homework, please do not alter without admission
+
+in version 1.0
+
+the code only grabs items from the html file and convert it into a csv file
+
+setwd before use
